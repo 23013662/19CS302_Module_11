@@ -26,14 +26,19 @@ Developed by: Santhiya c
 RegisterNumber:  212223060247
 */
 #include <stdio.h>
+
 int main()
+
 {
     for(char ch = 'A'; ch <= 'Z'; ch++)
+    
     {
         printf("%c ", ch);
+        
     }
+    
     printf("\n");
-
+    
     return 0;
 }
 
