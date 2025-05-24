@@ -11,7 +11,6 @@ To write a C program to find a square of number using function with arguments wi
 5. Ask the user to make an input. 
 6. Print out the answer. 
 7. End 
-
 ## Program:
 ```
 /*
